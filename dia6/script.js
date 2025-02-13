@@ -21,11 +21,11 @@
 
 /////OPERADORES DE ATRIBUIÇÃO/////
 
-let total = 10
-// total += 5 //adicionar +5
-// total -= 5 //subtração -5
-// total *= 5 //multiplicação -5
-// total /= 5 //divisão
-// total %= 4 //resto
-// total **= 2 //exponenciação
-console.log(total)
+// let total = 10
+// // total += 5 //adicionar +5
+// // total -= 5 //subtração -5
+// // total *= 5 //multiplicação -5
+// // total /= 5 //divisão
+// // total %= 4 //resto
+// // total **= 2 //exponenciação
+// console.log(total)
