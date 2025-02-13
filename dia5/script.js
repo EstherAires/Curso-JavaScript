@@ -43,15 +43,30 @@
 // age = Number(age)
 // console.log(age, typeof age)
 
-////Number para string////
+/////Number para string/////
+
+// let age = 35.6
+
+///(utilizando método toString)
+// age = age.toString()
+
+///(utilizando construtor String)
+// age = String(age)
+
+///(utilizando tamplate Literals)
+//Usar o número dentro de um template literal também realiza a conversão.
+// console.log(`${age}`)
+
+/////Number para Boolean(true or false)////
 
 let age = 35.6
 
-////(utilizando método toString)
-// age = age.toString()
+///   Em JavaScript, 0, NaN (Not a Number) e o número null são considerados
+///   falsy e serão convertidos para false. Qualquer outro número é truthy
+///   e será convertido para true.
+///Number 0 = false
+///Number 1... = true
 
-////(utilizando construtor String)
-// age = String(age)
+age = Boolean(age)
 
-////
 console.log(age, typeof age)
