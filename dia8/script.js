@@ -113,21 +113,21 @@
 //Objetos Literais:
 // Podem ser definidos usando chaves {} com pares de chave-valor.
 
-let car = {
-  carName: 'Cybertruck',
-  carRange: 340,
-  carMaxSpeed: 112,
-  carHorsePower: 600,
-}
+// let car = {
+//   carName: 'Cybertruck',
+//   carRange: 340,
+//   carMaxSpeed: 112,
+//   carHorsePower: 600,
+// }
 
-console.log(car)
+// console.log(car)
 
-//Chaves Dinâmicas: Quando uma chave precisa ser dinâmica ou baseada
-// em uma variável, podemos usar a sintaxe de colchetes ([]).
+// //Chaves Dinâmicas: Quando uma chave precisa ser dinâmica ou baseada
+// // em uma variável, podemos usar a sintaxe de colchetes ([]).
 
-let chaveDinamica = 'nome'
-let objeto = {
-  [chaveDinamica]: 'Ana',
-}
+// let chaveDinamica = 'nome'
+// let objeto = {
+//   [chaveDinamica]: 'Ana',
+// }
 
-console.log(objeto)
+// console.log(objeto)
