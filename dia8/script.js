@@ -104,6 +104,14 @@
 // //gerando de 1 a 10
 // console.log(Math.round(Math.random() * 10 + 1))
 
+// let sequencia = [1, 56, 41, 89, 23]
+
+// //retorna o maior número
+// console.log(Math.max(...sequencia))
+
+// //retornar o menor número
+// console.log(Math.min(...sequencia))
+
 //
 //
 //
