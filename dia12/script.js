@@ -53,5 +53,6 @@ let matrix = [
   [7, 8, 9],
 ]
 
-let element = matrix[1][2]
+let element = matrix[1][2] //// Acessa o elemento na segunda linha e terceira coluna, resultando em 6
+
 console.log(element)
