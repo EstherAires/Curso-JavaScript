@@ -49,7 +49,7 @@ console.log('Arrow Function')
 const subtrair1 = (n1, n2) => n1 - n2
 console.log(subtrair1(10, 5))
 
-//Arrow Function implicity Return
+//Arrow Function 
 console.log('----------------------------------------------')
 console.log('Arrow Function')
 
